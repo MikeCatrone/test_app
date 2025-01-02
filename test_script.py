@@ -1,3 +1,6 @@
 # Testing saving a python file to github
 
-print("Hello World")
+myName = 'Michael'
+lastName = 'Catrone'
+
+print("Hello " + myName + '' + lastName )
