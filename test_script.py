@@ -1,10 +1,6 @@
 # Testing saving a python file to github
 
-myName = 'Michael'
-lastName = 'Catrone'
+def greeting():
+    print('Greetings, Mike, how are you today?')
 
-my_status = 'Update was completed'
-
-
-
-print("Hello " + myName + '' + lastName )
+greeting()    
